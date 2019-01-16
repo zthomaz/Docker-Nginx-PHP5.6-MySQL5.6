@@ -29,5 +29,5 @@ sudo make bash
 ## Test container
 http://localhost:8080/
 
-## nRemove container
+## Remove container
 sudo make clear
