@@ -25,3 +25,9 @@ Run bash on container (for debug)
 ```bash
 sudo make bash
 ```
+
+## Test container
+http://localhost:8080/
+
+## nRemove container
+sudo make clear
